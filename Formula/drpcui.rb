@@ -1,6 +1,6 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
-class Getdrpcui < Formula
+class Drpcui < Formula
   desc "Updated Version of GrpcUI"
   homepage "https://github.com/heysachin/drpcui"
   url "https://github.com/heysachin/drpcui/releases/download/v1.0.2/drpcui"
