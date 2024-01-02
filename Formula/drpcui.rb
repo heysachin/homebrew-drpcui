@@ -3,10 +3,10 @@
 class Drpcui < Formula
   desc "Updated Version of GrpcUI"
   homepage "https://github.com/heysachin/drpcui"
-  url "https://github.com/heysachin/drpcui/releases/download/v1.0.2/drpcui"
-  sha256 "7cf86d3f406056d4d708a8774b71ef3538f329673909cd128972d3d4f68928bd"
+  url "https://github.com/heysachin/drpcui/releases/download/v1.0.3/drpcui.tar.gz"
+  sha256 "5e1a3c96eba78517c0361a61d38de932df128e88cda1ac1bc7c041674ec38fec"
   license "MIT"
-  version "1.0.2"
+  version "1.0.3"
 
   def install
     bin.install "drpcui"
